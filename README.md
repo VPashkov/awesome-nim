@@ -4,7 +4,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 - [Awesome Nim](#awesome-nim)
     - [IDE](#ide)
-    - [Implementations](#build-tool)
+    - [Implementations](#implementations)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
 - [Contributing](#contributing)
