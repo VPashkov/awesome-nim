@@ -5,6 +5,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 - [Awesome Nim](#awesome-nim)
     - [IDE](#ide)
     - [Implementations](#implementations)
+    - [Package Management](#package-management)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
 - [Contributing](#contributing)
@@ -16,6 +17,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Implementations
 
 * [Nim](https://github.com/nim-lang/Nim) - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority) [MIT] [website](http://nim-lang.org/)
+
+## Package Management
+
+* [Nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 
 ## Web Frameworks
 
