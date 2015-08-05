@@ -9,6 +9,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Package Repositories](#package-repositories)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
+    - [Websites](#websites) 
 - [Contributing](#contributing)
 
 ## IDE
@@ -32,6 +33,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
 
 # Resources
+
+## Websites
+
+* [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for leaning the Nim Programing Language.
 
 # Contributing
 
