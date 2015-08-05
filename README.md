@@ -3,10 +3,15 @@
 A curated list of awesome Nim frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 - [Awesome Nim](#awesome-nim)
+    - [IDE](#ide)
     - [Implementations](#build-tool)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
 - [Contributing](#contributing)
+
+## IDE
+
+* [Aporia](https://github.com/nim-lang/Aporia) - IDE/Advanced text editor mainly focusing on support for the Nim programming language.
 
 ## Implementations
 
