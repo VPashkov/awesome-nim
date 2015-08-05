@@ -20,7 +20,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Package Management
 
-* [Nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
+* [Nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language. [BSD]
 
 ## Web Frameworks
 
