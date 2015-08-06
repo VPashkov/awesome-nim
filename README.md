@@ -3,6 +3,7 @@
 A curated list of awesome Nim frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 - [Awesome Nim](#awesome-nim)
+    - [Build Systems](#build-systems)
     - [IDE](#ide)
     - [Implementations](#implementations)
     - [Package Management](#package-management)
@@ -11,6 +12,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 - [Resources](#resources)
     - [Websites](#websites) 
 - [Contributing](#contributing)
+ 
+## Build Systems
+
+* [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks [MIT]
 
 ## IDE
 
