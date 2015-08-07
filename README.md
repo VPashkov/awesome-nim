@@ -10,7 +10,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Package Repositories](#package-repositories)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
-    - [Websites](#websites) 
+    - [Blogs](#blogs)
+    - [Websites](#websites)
 - [Contributing](#contributing)
  
 ## Build Systems
@@ -38,6 +39,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
 
 # Resources
+
+## Blogs
+
+* [HookRace](http://hookrace.net) - a Nim blog for now 
 
 ## Websites
 
