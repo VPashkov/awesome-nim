@@ -4,6 +4,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 - [Awesome Nim](#awesome-nim)
     - [Build Systems](#build-systems)
+    - [GUI](#gui)
     - [IDE](#ide)
     - [Implementations](#implementations)
     - [Package Management](#package-management)
@@ -17,6 +18,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Build Systems
 
 * [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks [MIT]
+
+## GUI
+
+* [nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
 
 ## IDE
 
