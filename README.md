@@ -52,6 +52,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Websites
 
 * [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for learning the Nim programming language.
+* [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - A guide to Nim for people with experience in Python.
 
 # Contributing
 
