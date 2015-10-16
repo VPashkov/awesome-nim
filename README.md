@@ -12,6 +12,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
     - [Blogs](#blogs)
+    - [Community](#community)
     - [Websites](#websites)
 - [Contributing](#contributing)
  
@@ -49,9 +50,17 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [HookRace](http://hookrace.net) - a Nim blog for now 
 
+## Community
+
+* [The Nim forum](http://forum.nim-lang.org/)
+* [The Nim IRC channel](http://webchat.freenode.net/?channels=nim)
+* [The Nim mailing list](http://www.freelists.org/list/nim-dev)
+* [The Nim SubReddit](http://reddit.com/r/nim)
+
 ## Websites
 
-* [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for leaning the Nim Programing Language.
+* [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for learning the Nim programming language.
+* [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - A guide to Nim for people with experience in Python.
 
 # Contributing
 
