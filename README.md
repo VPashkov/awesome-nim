@@ -55,6 +55,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [The Nim forum](http://forum.nim-lang.org/)
 * [The Nim IRC channel](http://webchat.freenode.net/?channels=nim)
+* [The Nim Gitter channel](https://gitter.im/nim-lang/Nim)
 * [The Nim mailing list](http://www.freelists.org/list/nim-dev)
 * [The Nim SubReddit](http://reddit.com/r/nim)
 
