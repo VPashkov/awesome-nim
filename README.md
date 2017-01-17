@@ -11,6 +11,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Package Repositories](#package-repositories)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
+    - [Books](#books)
     - [Blogs](#blogs)
     - [Community](#community)
     - [Websites](#websites)
@@ -47,6 +48,9 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for nim [Apache-2.0]
 
 # Resources
+
+## Books
+* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, avaliable via mannings early access program
 
 ## Blogs
 
