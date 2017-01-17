@@ -19,6 +19,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Build Systems
 
 * [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks [MIT]
+* [Nimble](https://github.com/nim-lang/nimble) - Nimble can be used as a build system [BSD]
 
 ## GUI
 
