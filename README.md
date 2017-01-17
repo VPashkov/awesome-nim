@@ -45,6 +45,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
 * [nawak](https://github.com/idlewan/nawak) - A web micro-framework in Nimrod, heavily inspired by jester, flask and the like. [MIT]
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for nim [Apache-2.0]
+* [rosencrantz](http://andreaferretti.github.io/rosencrantz/) - DSL to write web servers, inspired by [Spray](http://spray.io/) and its successor [Akka HTTP](http://akka.io)
 
 # Resources
 
