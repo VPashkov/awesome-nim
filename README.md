@@ -27,6 +27,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## IDE
 
 * [Aporia](https://github.com/nim-lang/Aporia) - IDE/Advanced text editor mainly focusing on support for the Nim programming language.
+* [Editor Integration](https://github.com/nim-lang/Nim/wiki/editor-support) - Offical list of editor plugins for nim
 
 ## Implementations
 
