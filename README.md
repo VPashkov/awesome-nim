@@ -59,7 +59,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Blogs
 
 * [Araq's Musings](http://nim-lang.org/blog/) - Araq's (Nim creator) personal blog on nim
-* [HookRace](http://hookrace.net) - a Nim blog for now
+* [HookRace](http://hookrace.net) - a Nim blog for now 
+* [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - posts on nim and other languages
 
 ## Community
 
