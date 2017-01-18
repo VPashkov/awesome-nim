@@ -11,6 +11,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Package Repositories](#package-repositories)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
+    - [Books](#books)
     - [Blogs](#blogs)
     - [Community](#community)
     - [Websites](#websites)
@@ -19,6 +20,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Build Systems
 
 * [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks [MIT]
+* [Nimble](https://github.com/nim-lang/nimble) - Nimble can be used as a build system [BSD]
 
 ## GUI
 
@@ -27,6 +29,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## IDE
 
 * [Aporia](https://github.com/nim-lang/Aporia) - IDE/Advanced text editor mainly focusing on support for the Nim programming language.
+* [Editor Integration](https://github.com/nim-lang/Nim/wiki/editor-support) - Offical list of editor plugins for nim
 
 ## Implementations
 
@@ -38,6 +41,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Package Repositories
 
+* [Nimble explorer](http://nimble-explorer.com/) - Website for browsing the nim package repository
 * [Nim packages](https://github.com/nim-lang/packages) - List of packages for Nimble.
 
 ## Web Frameworks
@@ -45,11 +49,16 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
 * [nawak](https://github.com/idlewan/nawak) - A web micro-framework in Nimrod, heavily inspired by jester, flask and the like. [MIT]
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for nim [Apache-2.0]
+* [rosencrantz](http://andreaferretti.github.io/rosencrantz/) - DSL to write web servers, inspired by [Spray](http://spray.io/) and its successor [Akka HTTP](http://akka.io)
 
 # Resources
 
+## Books
+* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, avaliable via mannings early access program
+
 ## Blogs
 
+* [Araq's Musings](http://nim-lang.org/blog/) - Araq's (Nim creator) personal blog on nim
 * [HookRace](http://hookrace.net) - a Nim blog for now 
 * [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - posts on nim and other languages
 
@@ -63,8 +72,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Websites
 
+* [How i start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to nim compiler
 * [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for learning the Nim programming language.
 * [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - A guide to Nim for people with experience in Python.
+* [Roseetacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100's of solutions for variours tasks using nim (Implementations avaliable in other languages as well)
 
 # Contributing
 
