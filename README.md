@@ -11,6 +11,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Package Repositories](#package-repositories)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
+    - [Books](#books)
     - [Blogs](#blogs)
     - [Community](#community)
     - [Websites](#websites)
@@ -51,6 +52,9 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [rosencrantz](http://andreaferretti.github.io/rosencrantz/) - DSL to write web servers, inspired by [Spray](http://spray.io/) and its successor [Akka HTTP](http://akka.io)
 
 # Resources
+
+## Books
+* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, avaliable via mannings early access program
 
 ## Blogs
 
