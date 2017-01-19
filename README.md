@@ -24,7 +24,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## GUI
 
-* [nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
+* [iup](https://github.com/nim-lang/iup) - Wrapper for IUP - Desktop GUI's
+* [nimx](https://github.com/yglukhov/nimx) - Desktop, Mobile & Web GUI framework in Nim.
 
 ## IDE
 
