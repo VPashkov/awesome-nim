@@ -74,6 +74,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Websites
 
 * [How i start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to nim compiler
+* [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/) - Whirlwind tour
 * [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for learning the Nim programming language.
 * [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - A guide to Nim for people with experience in Python.
 * [Roseetacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100's of solutions for variours tasks using nim (Implementations avaliable in other languages as well)
