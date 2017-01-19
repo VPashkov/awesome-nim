@@ -16,7 +16,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Community](#community)
     - [Websites](#websites)
 - [Contributing](#contributing)
- 
+
 ## Build Systems
 
 * [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks [MIT]
@@ -59,7 +59,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Blogs
 
 * [Araq's Musings](http://nim-lang.org/blog/) - Araq's (Nim creator) personal blog on nim
-* [HookRace](http://hookrace.net) - a Nim blog for now 
+* [Goran Krampe](http://goran.krampe.se/nim/) - Wrapping C, arduino, performance, links
+* [HookRace](http://hookrace.net) - a Nim blog for now
 * [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - posts on nim and other languages
 
 ## Community
@@ -73,6 +74,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Websites
 
 * [How i start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to nim compiler
+* [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/) - Whirlwind tour
 * [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for learning the Nim programming language.
 * [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - A guide to Nim for people with experience in Python.
 * [Roseetacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100's of solutions for variours tasks using nim (Implementations avaliable in other languages as well)
