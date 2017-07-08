@@ -45,7 +45,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [Nimble explorer](http://nimble-explorer.com/) - Website for browsing the nim package repository
 * [Nim packages](https://github.com/nim-lang/packages) - List of packages for Nimble.
-* [Nimism](https://nimism.co) - Search for available Nim packages.
+* [Nimism](http://nimism.co) - Search for available Nim packages.
 
 ## Scripting
 
