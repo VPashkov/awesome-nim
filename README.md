@@ -9,6 +9,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Implementations](#implementations)
     - [Package Management](#package-management)
     - [Package Repositories](#package-repositories)
+    - [Scripting](#scripting)
+    - [Services](#services)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
     - [Books](#books)
