@@ -50,6 +50,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [Nimcr](https://github.com/PMunch/nimcr/blob/master/docs/nimcr.md) - Running Nim code with Shebangs.
 
+## Services
+
+* [Luntic](https://github.com/xxlabaza/luntic) - A lightweight REST in-memory discovery service. [Apache-2.0]
+
 ## Web Frameworks
 
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
