@@ -9,6 +9,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Implementations](#implementations)
     - [Package Management](#package-management)
     - [Package Repositories](#package-repositories)
+    - [Scripting](#scripting)
+    - [Services](#services)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
     - [Books](#books)
@@ -50,6 +52,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Scripting
 
 * [Nimcr](https://github.com/PMunch/nimcr/blob/master/docs/nimcr.md) - Running Nim code with Shebangs.
+
+## Services
+
+* [Luntic](https://github.com/xxlabaza/luntic) - A lightweight REST in-memory discovery service. [Apache-2.0]
 
 ## Web Frameworks
 
