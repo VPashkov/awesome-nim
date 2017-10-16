@@ -9,6 +9,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Implementations](#implementations)
     - [Package Management](#package-management)
     - [Package Repositories](#package-repositories)
+    - [Scripting](#scripting)
+    - [Services](#services)
     - [Web](#web)
         - [Web Frameworks](#web-frameworks)
         - [Parsing HTML](#parsing-html)
@@ -45,8 +47,16 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Package Repositories
 
-* [Nimble explorer](http://nimble-explorer.com/) - Website for browsing the nim package repository
 * [Nim packages](https://github.com/nim-lang/packages) - List of packages for Nimble.
+* [Nimism](http://nimism.co) - Search for available Nim packages.
+
+## Scripting
+
+* [Nimcr](https://github.com/PMunch/nimcr/blob/master/docs/nimcr.md) - Running Nim code with Shebangs.
+
+## Services
+
+* [Luntic](https://github.com/xxlabaza/luntic) - A lightweight REST in-memory discovery service. [Apache-2.0]
 
 ## Web
 
@@ -71,7 +81,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Blogs
 
-* [Araq's Musings](http://nim-lang.org/blog/) - Araq's (Nim creator) personal blog on nim
+* [Nim Blog](http://nim-lang.org/blog.html) - Official Nim blog
 * [Goran Krampe](http://goran.krampe.se/nim/) - Wrapping C, arduino, performance, links
 * [HookRace](http://hookrace.net) - a Nim blog for now
 * [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - posts on nim and other languages
