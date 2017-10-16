@@ -11,7 +11,9 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Package Repositories](#package-repositories)
     - [Scripting](#scripting)
     - [Services](#services)
-    - [Web Frameworks](#web-frameworks)
+    - [Web](#web)
+        - [Web Frameworks](#web-frameworks)
+        - [Parsing HTML](#parsing-html)
 - [Resources](#resources)
     - [Books](#books)
     - [Blogs](#blogs)
@@ -56,13 +58,21 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [Luntic](https://github.com/xxlabaza/luntic) - A lightweight REST in-memory discovery service. [Apache-2.0]
 
-## Web Frameworks
+## Web
+
+### Web Frameworks
 
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
 * [Karax](https://github.com/pragmagic/karax) - a framework for developing single page applications in Nim.
 * [nawak](https://github.com/idlewan/nawak) - A web micro-framework in Nimrod, heavily inspired by jester, flask and the like. [MIT]
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for nim [Apache-2.0]
 * [rosencrantz](http://andreaferretti.github.io/rosencrantz/) - DSL to write web servers, inspired by [Spray](http://spray.io/) and its successor [Akka HTTP](http://akka.io)
+
+### Parsing HTML
+
+* [Nimquery](https://github.com/GULPF/nimquery) - A library for
+  querying HTML using CSS selectors, like JavaScripts
+  `document.querySelector`. [MIT]
 
 # Resources
 
