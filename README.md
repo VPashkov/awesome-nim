@@ -4,6 +4,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 - [Awesome Nim](#awesome-nim)
     - [Build Systems](#build-systems)
+    - [Game Development](#game-development)
     - [GUI](#gui)
     - [IDE](#ide)
     - [Implementations](#implementations)
@@ -26,6 +27,9 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks [MIT]
 * [Nimble](https://github.com/nim-lang/nimble) - Nimble can be used as a build system [BSD]
 * [ChooseNim](https://github.com/dom96/choosenim) - Installing and switching between Nim versions (à la rustup, pyenv) [MIT]
+
+## Game Development
+* [zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library
 
 ## GUI
 
