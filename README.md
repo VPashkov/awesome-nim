@@ -40,6 +40,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Implementations
 
 * [Nim](https://github.com/nim-lang/Nim) - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority) [MIT] [website](http://nim-lang.org/)
+* [Nlvm](https://github.com/arnetheduck/nlvm) - LLVM backend for nim
 
 ## Package Management
 
