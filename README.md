@@ -16,6 +16,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Web](#web)
         - [Web Frameworks](#web-frameworks)
         - [Parsing HTML](#parsing-html)
+- [Development Tools](#development-tools)
 - [Resources](#resources)
     - [Books](#books)
     - [Blogs](#blogs)
@@ -84,6 +85,11 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Nimquery](https://github.com/GULPF/nimquery) - A library for
   querying HTML using CSS selectors, like JavaScripts
   `document.querySelector`. [MIT]
+
+# Development Tools
+
+## Binding Generators
+* [Pymod](https://github.com/jboy/nim-pymod) - Gen Python C-API wrappers
 
 # Resources
 
