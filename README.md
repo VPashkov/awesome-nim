@@ -89,7 +89,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 # Development Tools
 
 ## Binding Generators
-* [Pymod](https://github.com/jboy/nim-pymod) - Gen Python C-API wrappers
+* [Pymod](https://github.com/jboy/nim-pymod) - Gen Python C-API wrappers. [MIT]
 
 # Resources
 
