@@ -16,6 +16,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
     - [Web](#web)
         - [Web Frameworks](#web-frameworks)
         - [Parsing HTML](#parsing-html)
+        - [Generating HTML](#generating-html)
 - [Development Tools](#development-tools)
 - [Resources](#resources)
     - [Books](#books)
@@ -86,6 +87,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Nimquery](https://github.com/GULPF/nimquery) - A library for
   querying HTML using CSS selectors, like JavaScripts
   `document.querySelector`. [MIT]
+
+### Generating HTML
+
+* [HastyScribe](https://github.com/h3rald/hastyscribe) - Self-contained markdown compiler generating self-contained HTML documents https://h3rald.com/hastyscribe
 
 # Development Tools
 
