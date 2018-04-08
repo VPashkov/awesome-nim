@@ -1,4 +1,4 @@
-# Awesome Nim
+# Awesome Nim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Nim frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
