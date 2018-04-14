@@ -37,7 +37,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Game Development
 
-* [frag](https://github.com/fragworks/frag) - A cross-platform 2D|3D game framework for the Nim programming language http://fragworks.io. [MIT]
+* [frag](https://github.com/fragworks/frag) - Cross-platform 2D|3D game framework for the Nim programming language http://fragworks.io. [MIT]
 * [zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library.
 
 ## GUI
@@ -70,21 +70,21 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Services
 
-* [Luntic](https://github.com/xxlabaza/luntic) - A lightweight REST in-memory discovery service. [Apache-2.0]
+* [Luntic](https://github.com/xxlabaza/luntic) - Lightweight REST in-memory discovery service. [Apache-2.0]
 
 ## Web
 
 ### Web Frameworks
 
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
-* [Karax](https://github.com/pragmagic/karax) - a framework for developing single page applications in Nim.
-* [nawak](https://github.com/idlewan/nawak) - A web micro-framework in Nimrod, heavily inspired by jester, flask and the like. [MIT]
+* [Karax](https://github.com/pragmagic/karax) - Framework for developing single page applications in Nim.
+* [nawak](https://github.com/idlewan/nawak) - Web micro-framework in Nimrod, heavily inspired by jester, flask and the like. [MIT]
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for nim. [Apache-2.0]
 * [rosencrantz](http://andreaferretti.github.io/rosencrantz/) - DSL to write web servers, inspired by [Spray](http://spray.io/) and its successor [Akka HTTP](http://akka.io).
 
 ### Parsing HTML
 
-* [Nimquery](https://github.com/GULPF/nimquery) - A library for
+* [Nimquery](https://github.com/GULPF/nimquery) - Library for
   querying HTML using CSS selectors, like JavaScripts
   `document.querySelector`. [MIT]
 
@@ -106,8 +106,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [Nim Blog](http://nim-lang.org/blog.html) - Official Nim blog.
 * [Goran Krampe](http://goran.krampe.se/nim/) - Wrapping C, arduino, performance, links.
-* [HookRace](http://hookrace.net) - a Nim blog for now.
-* [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - posts on nim and other languages.
+* [HookRace](http://hookrace.net) - Nim blog for now.
+* [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - Posts on nim and other languages.
 
 ## Community
 
@@ -121,8 +121,8 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [How i start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to nim compiler.
 * [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/) - Whirlwind tour.
-* [Nim by example](https://nim-by-example.github.io) - A series of pages and examples for learning the Nim programming language.
-* [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - A guide to Nim for people with experience in Python.
+* [Nim by example](https://nim-by-example.github.io) - Series of pages and examples for learning the Nim programming language.
+* [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - Guide to Nim for people with experience in Python.
 * [Roseetacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100's of solutions for variours tasks using nim (Implementations avaliable in other languages as well).
 
 # Contributing
