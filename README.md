@@ -116,6 +116,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [The Nim mailing list](http://www.freelists.org/list/nim-dev)
 * [The Nim SubReddit](http://reddit.com/r/nim)
 * [The Nim Telegram](https://t.me/nim_lang)
+* [The Nim Telegram on Spanish](https://t.me/NimArgentina)
 
 ## Websites
 
