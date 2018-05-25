@@ -13,6 +13,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 - [Package Repositories](#package-repositories)
 - [Scripting](#scripting)
 - [Services](#services)
+- [Text Processing](#text-processing)
 - [Web](#web)
     - [Web Frameworks](#web-frameworks)
     - [Parsing HTML](#parsing-html)
@@ -70,6 +71,11 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Services
 
 * [Luntic](https://github.com/xxlabaza/luntic) - Lightweight REST in-memory discovery service. [Apache-2.0]
+
+## Text Processing
+
+* [regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine with linear time match. [MIT]
+* [glob](https://github.com/citycide/glob) - Pure library for matching file paths against Unix style glob patterns. [MIT]
 
 ## Web
 
