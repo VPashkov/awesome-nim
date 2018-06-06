@@ -49,12 +49,12 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## IDE
 
 * [Aporia](https://github.com/nim-lang/Aporia) - IDE/Advanced text editor mainly focusing on support for the Nim programming language.
-* [Editor Integration](https://github.com/nim-lang/Nim/wiki/editor-support) - Offical list of editor plugins for nim.
+* [Editor Integration](https://github.com/nim-lang/Nim/wiki/editor-support) - Official list of editor plugins for Nim.
 
 ## Implementations
 
 * [Nim](https://github.com/nim-lang/Nim) - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority). [MIT] [website](http://nim-lang.org/)
-* [Nlvm](https://github.com/arnetheduck/nlvm) - LLVM backend for nim. [MIT]
+* [Nlvm](https://github.com/arnetheduck/nlvm) - LLVM backend for Nim. [MIT]
 
 ## Package Management
 
@@ -84,13 +84,13 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Jester](https://github.com/dom96/jester) - The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim. [MIT]
 * [Karax](https://github.com/pragmagic/karax) - Framework for developing single page applications in Nim.
 * [nawak](https://github.com/idlewan/nawak) - Web micro-framework in Nimrod, heavily inspired by jester, flask and the like. [MIT]
-* [oauth](https://github.com/CORDEA/oauth) - OAuth library for nim. [Apache-2.0]
+* [oauth](https://github.com/CORDEA/oauth) - OAuth library for Nim. [Apache-2.0]
 * [rosencrantz](http://andreaferretti.github.io/rosencrantz/) - DSL to write web servers, inspired by [Spray](http://spray.io/) and its successor [Akka HTTP](http://akka.io).
 
 ### Parsing HTML
 
 * [Nimquery](https://github.com/GULPF/nimquery) - Library for
-  querying HTML using CSS selectors, like JavaScripts
+  querying HTML using CSS selectors, like Javascript's
   `document.querySelector`. [MIT]
 
 ### Generating HTML
@@ -105,14 +105,14 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 # Resources
 
 ## Books
-* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, avaliable via mannings early access program.
+* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, available via Manning's early access program.
 
 ## Blogs
 
 * [Nim Blog](http://nim-lang.org/blog.html) - Official Nim blog.
 * [Goran Krampe](http://goran.krampe.se/nim/) - Wrapping C, arduino, performance, links.
 * [HookRace](http://hookrace.net) - Nim blog for now.
-* [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - Posts on nim and other languages.
+* [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - Posts on Nim and other languages.
 
 ## Community
 
@@ -126,11 +126,11 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Websites
 
-* [How i start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to nim compiler.
+* [How I start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to Nim compiler.
 * [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/) - Whirlwind tour.
-* [Nim by example](https://nim-by-example.github.io) - Series of pages and examples for learning the Nim programming language.
+* [Nim by Example](https://nim-by-example.github.io) - Series of pages and examples for learning the Nim programming language.
 * [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - Guide to Nim for people with experience in Python.
-* [Roseetacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100's of solutions for variours tasks using nim (Implementations avaliable in other languages as well).
+* [Rosettacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100s of solutions for various tasks using Nim (Implementations available in other languages as well).
 
 # Contributing
 
