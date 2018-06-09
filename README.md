@@ -5,6 +5,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Contents
 - [Build Systems](#build-systems)
 - [Database](#database)
+- [Embedded](#embedded)
 - [Game Development](#game-development)
 - [GUI](#gui)
 - [IDE](#ide)
@@ -35,6 +36,13 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Database
 
 * [ormin](https://github.com/Araq/ormin) - Prepared SQL statement generator , A lightweight ORM.
+
+## Embedded
+
+* [msp430f5510](https://gitlab.com/jalexander8717/msp430f5510-nim) - Run Nim on MSP430f5510 micro-controller (6KB of RAM)
+* [stm32f3](https://github.com/mwbrown/nim_stm32f3) - Run Nim on STM32F3 micro-controller (16KB of RAM)
+* [ardunimo](https://github.com/gokr/ardunimo) - Nim wrapper for Arduino + LinkIt ONE SDK by Mediatek
+
 
 ## Game Development
 
