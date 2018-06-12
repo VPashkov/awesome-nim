@@ -5,6 +5,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Contents
 - [Build Systems](#build-systems)
 - [Database](#database)
+- [Deep Learning](#deep-learning)
 - [Embedded](#embedded)
 - [Game Development](#game-development)
 - [GUI](#gui)
@@ -36,6 +37,10 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Database
 
 * [ormin](https://github.com/Araq/ormin) - Prepared SQL statement generator , A lightweight ORM.
+
+## Deep Learning
+
+* [Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU, OpenCL and embedded devices. [Apache-2.0]
 
 ## Embedded
 
