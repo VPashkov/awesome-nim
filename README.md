@@ -140,6 +140,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Websites
 
+* [Nim Basics](https://narimiran.github.io/nim-basics/) - Tutorial for beginners and people just starting with Nim.
 * [How I start](https://howistart.org/posts/nim) - Great guide going from 0 to a bf interpreter and then a bf to Nim compiler.
 * [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/) - Whirlwind tour.
 * [Nim by Example](https://nim-by-example.github.io) - Series of pages and examples for learning the Nim programming language.
