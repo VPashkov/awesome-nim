@@ -37,6 +37,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Database
 
 * [ormin](https://github.com/Araq/ormin) - Prepared SQL statement generator , A lightweight ORM.
+* [nimongo](https://github.com/SSPkrolik/nimongo) - Pure Nim lang MongoDB driver. http://sspkrolik.github.io/nimongo
 
 ## Deep Learning
 
