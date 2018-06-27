@@ -52,7 +52,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Game Development
 
-* [frag](https://github.com/fragworks/frag) - Cross-platform 2D|3D game framework for the Nim programming language http://fragworks.io. [MIT]
+* [frag](https://github.com/fragworks/frag) - Cross-platform 2D|3D game framework for the Nim programming language. [MIT]
 * [zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library.
 
 ## GUI
