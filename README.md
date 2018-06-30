@@ -80,7 +80,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Scripting
 
-* [Nimcr](https://github.com/PMunch/nimcr/blob/master/docs/nimcr.md) - Running Nim code with Shebangs.
+* [Nimcr](https://github.com/PMunch/nimcr/blob/master/README.md) - Running Nim code with Shebangs.
 
 ## Services
 
