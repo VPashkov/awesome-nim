@@ -116,6 +116,11 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 ## Binding Generators
 * [Pymod](https://github.com/jboy/nim-pymod) - Gen Python C-API wrappers. [MIT]
 
+## Command-Line Interface Automation
+* [cligen](https://github.com/c-blake/cligen) - Infer & generate command-line interace/option/argument parsers [MIT]
+* [docopt.nim](https://github.com/docopt/docopt.nim) - Command-line args parser [MIT]
+* [commandeer](https://github.com/fenekku/commandeer) - Provides a small command line parsing DSL (domain specific language) [MIT]
+
 # Resources
 
 ## Books
