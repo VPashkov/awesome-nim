@@ -183,8 +183,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - Guide to Nim for people with experience in Python.
 * [Rosettacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100s of solutions for various tasks using Nim (Implementations available in other languages as well).
 
-# Contributing
-[**&DoubleUpArrow;**](#contents "Go to the top")
+# Contributing    [**&DoubleUpArrow;**](#contents "Go to the top")
 
 Contributions are very welcome!
 
