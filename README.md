@@ -3,9 +3,14 @@
 A curated list of awesome Nim frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contents
+
 - [Build Systems](#build-systems)
+- [Byte Size](#byte-size)
+- [CheckSums](#checksums)
 - [Database](#database)
+- [Date Time](#date-time)
 - [Deep Learning](#deep-learning)
+- [Design](#design)
 - [Embedded](#embedded)
 - [Game Development](#game-development)
 - [GUI](#gui)
@@ -16,6 +21,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 - [Scripting](#scripting)
 - [Services](#services)
 - [Text Processing](#text-processing)
+    - [Translation](#translation)
 - [Web](#web)
     - [Web Frameworks](#web-frameworks)
     - [Parsing HTML](#parsing-html)
@@ -34,21 +40,36 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Nimble](https://github.com/nim-lang/nimble) - Nimble can be used as a build system. [BSD]
 * [ChooseNim](https://github.com/dom96/choosenim) - Installing and switching between Nim versions (à la rustup, pyenv). [MIT]
 
+### Byte Size
+
+* [nim-bytes2human](https://github.com/juancarlospaco/nim-bytes2human#nim-bytes2human) - Calculate all Byte units from an integer, with precision from Bytes to Yottabytes, and return a human friendly string representation.
+
+## Checksums
+
+* [nim-crc32](https://github.com/juancarlospaco/nim-crc32#nim-crc32) - CRC32 for Nim, 2 proc, just pass the thing you want to do CRC.
+
 ## Database
 
 * [ormin](https://github.com/Araq/ormin) - Prepared SQL statement generator , A lightweight ORM.
 * [nimongo](https://github.com/SSPkrolik/nimongo) - Pure Nim lang MongoDB driver. http://sspkrolik.github.io/nimongo [MIT]
 
+## Date Time
+
+* [nim-datetime2human](https://github.com/juancarlospaco/nim-datetime2human#nim-datetime2human) - Calculate date & time with precision from seconds to millenniums. Human friendly date time as string. ISO-8601.
+
 ## Deep Learning
 
 * [Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU, OpenCL and embedded devices. [Apache-2.0]
+
+## Design
+
+* [nim-random-font-color](https://github.com/juancarlospaco/nim-random-font-color#nim-random-font-color) - Random curated Fonts, pastel Colors and Seamless CSS3 Patterns for your UI/UX design, design for non-designers, poors man design.
 
 ## Embedded
 
 * [msp430f5510](https://gitlab.com/jalexander8717/msp430f5510-nim) - Run Nim on MSP430f5510 micro-controller (6KB of RAM).
 * [stm32f3](https://github.com/mwbrown/nim_stm32f3) - Run Nim on STM32F3 micro-controller (16KB of RAM).
 * [ardunimo](https://github.com/gokr/ardunimo) - Nim wrapper for Arduino + LinkIt ONE SDK by Mediatek.
-
 
 ## Game Development
 
@@ -59,6 +80,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [iup](https://github.com/nim-lang/iup) - Wrapper for IUP - Desktop GUI's.
 * [nimx](https://github.com/yglukhov/nimx) - Desktop, Mobile & Web GUI framework in Nim.
+* [nim-kdialog](https://github.com/juancarlospaco/nim-kdialog#nim-kdialog) - Nim [Kdialog](https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs) Qt5 Wrapper for Desktop.
 
 ## IDE
 
@@ -90,6 +112,11 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine with linear time match. [MIT]
 * [glob](https://github.com/citycide/glob) - Pure library for matching file paths against Unix style glob patterns. [MIT]
+* [nim-datauri](https://github.com/juancarlospaco/nim-datauri#nim-datauri) - Data URI Base64 UTF-8.
+
+### Translation
+
+* [nim-tinyslation](https://github.com/juancarlospaco/nim-tinyslation#nim-tinyslation) - Text string translation from free online crowdsourced API.
 
 ## Web
 
@@ -114,9 +141,11 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 # Development Tools
 
 ## Binding Generators
+
 * [Pymod](https://github.com/jboy/nim-pymod) - Gen Python C-API wrappers. [MIT]
 
 ## Command-Line Interface Automation
+
 * [cligen](https://github.com/c-blake/cligen) - Infer & generate command-line interace/option/argument parsers [MIT]
 * [docopt.nim](https://github.com/docopt/docopt.nim) - Command-line args parser [MIT]
 * [commandeer](https://github.com/fenekku/commandeer) - Provides a small command line parsing DSL (domain specific language) [MIT]
@@ -124,6 +153,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 # Resources
 
 ## Books
+
 * [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, available via Manning's early access program.
 * [Nim Days](https://github.com/xmonader/nimdays) - A project to document my journey with nim with mini applications, libraries documented from A to Z and also to provide new Nim users with some extra in depth information.
 
@@ -154,6 +184,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Rosettacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100s of solutions for various tasks using Nim (Implementations available in other languages as well).
 
 # Contributing
+[&DoubleUpArrow;](#Contents "Go to the top")
 
 Contributions are very welcome!
 
