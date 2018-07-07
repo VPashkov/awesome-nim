@@ -184,7 +184,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 * [Rosettacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100s of solutions for various tasks using Nim (Implementations available in other languages as well).
 
 # Contributing
-[&DoubleUpArrow;](#Contents "Go to the top")
+[**&DoubleUpArrow;**](#contents "Go to the top")
 
 Contributions are very welcome!
 
