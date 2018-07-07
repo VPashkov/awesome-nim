@@ -1,6 +1,6 @@
 # Awesome Nim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Nim frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contents
 
@@ -49,13 +49,13 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ### Byte Size
 
-* [nim-bytes2human](https://github.com/juancarlospaco/nim-bytes2human#nim-bytes2human) - Calculate all Byte units from an integer, with precision from Bytes to Yottabytes, and return a human friendly string representation.
+* [nim-bytes2human](https://github.com/juancarlospaco/nim-bytes2human#nim-bytes2human) - Calculate all Byte units from an integer, with precision from Bytes to Yottabytes, and return a human friendly string representation. [LGPL]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
 ## Checksums
 
-* [nim-crc32](https://github.com/juancarlospaco/nim-crc32#nim-crc32) - CRC32 for Nim, 2 proc, just pass the thing you want to do CRC.
+* [nim-crc32](https://github.com/juancarlospaco/nim-crc32#nim-crc32) - CRC32 for Nim, 2 proc, just pass the thing you want to do CRC. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -68,7 +68,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Date Time
 
-* [nim-datetime2human](https://github.com/juancarlospaco/nim-datetime2human#nim-datetime2human) - Calculate date & time with precision from seconds to millenniums. Human friendly date time as string. ISO-8601.
+* [nim-datetime2human](https://github.com/juancarlospaco/nim-datetime2human#nim-datetime2human) - Calculate date & time with precision from seconds to millenniums. Human friendly date time as string. ISO-8601. [LGPL]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -80,7 +80,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 ## Design
 
-* [nim-random-font-color](https://github.com/juancarlospaco/nim-random-font-color#nim-random-font-color) - Random curated Fonts, pastel Colors and Seamless CSS3 Patterns for your UI/UX design, design for non-designers, poors man design.
+* [nim-random-font-color](https://github.com/juancarlospaco/nim-random-font-color#nim-random-font-color) - Random curated Fonts, pastel Colors and Seamless CSS3 Patterns for your UI/UX design, design for non-designers, poors man design. [LGPL]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -103,7 +103,7 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [iup](https://github.com/nim-lang/iup) - Wrapper for IUP - Desktop GUI's.
 * [nimx](https://github.com/yglukhov/nimx) - Desktop, Mobile & Web GUI framework in Nim.
-* [nim-kdialog](https://github.com/juancarlospaco/nim-kdialog#nim-kdialog) - Nim [Kdialog](https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs) Qt5 Wrapper for Desktop.
+* [nim-kdialog](https://github.com/juancarlospaco/nim-kdialog#nim-kdialog) - Nim [Kdialog](https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs) Qt5 Wrapper for Desktop. [LGPL]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -149,13 +149,13 @@ A curated list of awesome Nim frameworks, libraries and software. Inspired by ot
 
 * [regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine with linear time match. [MIT]
 * [glob](https://github.com/citycide/glob) - Pure library for matching file paths against Unix style glob patterns. [MIT]
-* [nim-datauri](https://github.com/juancarlospaco/nim-datauri#nim-datauri) - Data URI Base64 UTF-8.
+* [nim-datauri](https://github.com/juancarlospaco/nim-datauri#nim-datauri) - Data URI Base64 UTF-8. [LGPL]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
 ### Translation
 
-* [nim-tinyslation](https://github.com/juancarlospaco/nim-tinyslation#nim-tinyslation) - Text string translation from free online crowdsourced API.
+* [nim-tinyslation](https://github.com/juancarlospaco/nim-tinyslation#nim-tinyslation) - Text string translation from free online crowdsourced API. [LGPL]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
