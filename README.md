@@ -99,9 +99,9 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 * [frag](https://github.com/fragworks/frag) - Cross-platform 2D|3D game framework for the Nim programming language. [MIT]
 * [zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library.
-* [SDL2](https://github.com/Vladar4/sdl2_nim) - Wrapper for SDL 2 [MIT]
+* [SDL2](https://github.com/Vladar4/sdl2_nim) - Wrapper for SDL 2. [MIT]
 * [GLAD](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. [MIT]
-* [nim-glm](https://github.com/stavenko/nim-glm) - Port of the popular glm C++ library to Nim [MIT]
+* [nim-glm](https://github.com/stavenko/nim-glm) - Port of the popular glm C++ library to Nim. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
