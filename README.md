@@ -39,11 +39,13 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 </details>
 
-## Build Systems
+## Build Systems/Package Management
 
-* [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks. [MIT]
+
 * [Nimble](https://github.com/nim-lang/nimble) - Nimble can be used as a build system. [BSD]
 * [ChooseNim](https://github.com/dom96/choosenim) - Installing and switching between Nim versions (à la rustup, pyenv). [MIT]
+* [Nawabs](https://github.com/Araq/nawabs) - A build system that throws away version numbering in favor of git hashes.
+* [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -97,21 +99,33 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 * [frag](https://github.com/fragworks/frag) - Cross-platform 2D|3D game framework for the Nim programming language. [MIT]
 * [zengine](https://github.com/zacharycarter/zengine) - 2D | 3D Game development library.
+* [SDL2](https://github.com/Vladar4/sdl2_nim) - Wrapper for SDL 2
+* [GLAD](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+* [nim-glm](https://github.com/stavenko/nim-glm) - Port of the popular glm C++ library to Nim
+
+[**&DoubleUpArrow;**](#contents "Go to the top")
+
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
 ## GUI
 
 * [iup](https://github.com/nim-lang/iup) - Wrapper for IUP - Desktop GUI's.
-* [nimx](https://github.com/yglukhov/nimx) - Desktop, Mobile & Web GUI framework in Nim.
-* [nim-kdialog](https://github.com/juancarlospaco/nim-kdialog#nim-kdialog) - Nim [Kdialog](https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs) Qt5 Wrapper for Desktop. [LGPL]
+* [nimx](https://github.com/yglukhov/nimx) - Desktop, Mobile & Web GUI
+  framework in Nim.
+* [wxnim](https://github.com/Araq/wxnim) - Wrapper for wxWidgets.
+* [nim-kdialog](https://github.com/juancarlospaco/nim-kdialog#nim-kdialog) -
+  Nim
+  [Kdialog](https://techbase.kde.org/Development/Tutorials/Shell_Scripting_with_KDE_Dialogs)
+  Qt5 Wrapper for Desktop. [LGPL]
+* [nimAntTweakBar](https://github.com/krux02/nimAntTweakBar) - Wrapper for AntTweakBar.
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
 ## IDE
 
-* [Aporia](https://github.com/nim-lang/Aporia) - IDE/Advanced text editor mainly focusing on support for the Nim programming language.
 * [Editor Integration](https://github.com/nim-lang/Nim/wiki/editor-support) - Official list of editor plugins for Nim.
+* [Aporia](https://github.com/nim-lang/Aporia) - Text editor to get started with Nim easily (not maintained anymore).
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
@@ -119,12 +133,6 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 * [Nim](https://github.com/nim-lang/Nim) - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority). [MIT] [website](http://nim-lang.org/)
 * [Nlvm](https://github.com/arnetheduck/nlvm) - LLVM backend for Nim. [MIT]
-
-[**&DoubleUpArrow;**](#contents "Go to the top")
-
-## Package Management
-
-* [Nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language. [BSD]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
