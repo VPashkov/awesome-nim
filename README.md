@@ -25,6 +25,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 - [Services](#services)
 - [Text Processing](#text-processing)
     - [Translation](#translation)
+    - [Template Engines](#template-engines)
 - [Web](#web)
     - [Web Frameworks](#web-frameworks)
     - [Parsing HTML](#parsing-html)
@@ -161,6 +162,10 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 ### Translation
 
 * [nim-tinyslation](https://github.com/juancarlospaco/nim-tinyslation#nim-tinyslation) - Text string translation from free online crowdsourced API. [LGPL]
+
+### Template Engines
+
+* [smalte](https://github.com/roquie/smalte) - Is a dead simple and lightweight template engine. Specially designed for configure application before start in Docker. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
