@@ -199,6 +199,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 ## Binding Generators
 
+* [Nimpy](https://github.com/yglukhov/nimpy) - Gen Python wrappers, call python from nim. [MIT]
 * [Pymod](https://github.com/jboy/nim-pymod) - Gen Python C-API wrappers. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
