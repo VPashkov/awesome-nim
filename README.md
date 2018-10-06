@@ -106,9 +106,6 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
-
-[**&DoubleUpArrow;**](#contents "Go to the top")
-
 ## GUI
 
 * [iup](https://github.com/nim-lang/iup) - Wrapper for IUP - Desktop GUI's.
