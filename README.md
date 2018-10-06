@@ -32,6 +32,8 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
     - [Parsing HTML](#parsing-html)
     - [Generating HTML](#generating-html)
 - [Development Tools](#development-tools)
+    - [Binding Generators](#binding-generators)
+    - [Command-Line Interface Automation](#command-line-interface-automation)
 - [Resources](#resources)
     - [Books](#books)
     - [Blogs](#blogs)
