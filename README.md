@@ -7,6 +7,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 <details open >
   <summary title="Hide/Show">Table of contents</summary>
 
+- [Async Processing](#async-processing)
 - [Build Systems](#build-systems)
 - [Byte Size](#byte-size)
 - [CheckSums](#checksums)
@@ -40,8 +41,12 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 </details>
 
-## Build Systems/Package Management
+## Async processing
+* [Nim-Asyncdispatch2](https://github.com/status-im/nim-asyncdispatch2) - Hard for of Asyncdispatch
 
+[**&DoubleUpArrow;**](#contents "Go to the top")
+
+## Build Systems/Package Management
 
 * [ChooseNim](https://github.com/dom96/choosenim) - Installing and switching between Nim versions (à la rustup, pyenv). [MIT]
 * [Nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks. [MIT]
