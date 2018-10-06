@@ -42,7 +42,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 </details>
 
 ## Async processing
-* [Nim-Asyncdispatch2](https://github.com/status-im/nim-asyncdispatch2) - Hard for of Asyncdispatch
+* [Nim-Asyncdispatch2](https://github.com/status-im/nim-asyncdispatch2) - Hard fork of Asyncdispatch. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
