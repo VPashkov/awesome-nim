@@ -22,6 +22,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 - [Implementations](#implementations)
 - [Package Management](#package-management)
 - [Package Repositories](#package-repositories)
+- [REPL](#repl)
 - [Scripting](#scripting)
 - [Services](#services)
 - [Text Processing](#text-processing)
@@ -142,6 +143,10 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 * [Nim packages](https://github.com/nim-lang/packages) - List of packages for Nimble.
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
+
+## REPL
+
+* [INim](https://github.com/AndreiRegiani/INim) - Interactive Nim Shell. [MIT]
 
 ## Scripting
 
