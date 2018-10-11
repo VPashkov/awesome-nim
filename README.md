@@ -8,7 +8,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
   <summary title="Hide/Show">Table of contents</summary>
 
 - [Async Processing](#async-processing)
-- [Build Systems](#build-systems)
+- [Build Systems/Package Management](#build-systems)
 - [Byte Size](#byte-size)
 - [CheckSums](#checksums)
 - [Database](#database)
@@ -20,7 +20,6 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 - [GUI](#gui)
 - [IDE](#ide)
 - [Implementations](#implementations)
-- [Package Management](#package-management)
 - [Package Repositories](#package-repositories)
 - [REPL](#repl)
 - [Scripting](#scripting)
