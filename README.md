@@ -85,6 +85,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 ## Deep Learning
 
 * [Arraymancer](https://github.com/mratsim/Arraymancer) - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU, OpenCL and embedded devices. [Apache-2.0]
+* [NimTorch](https://gitlab.fragcolor.xyz/fragcolor/nimtorch) - PyTorch - Python + Nim. A Nim front-end to PyTorch's native backend, combining Nim's speed, productivity and portability with PyTorch's latest implementations. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
