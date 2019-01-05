@@ -140,7 +140,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 ## Package Repositories
 
-* [Nim packages](https://github.com/nim-lang/packages) - List of packages for Nimble.
+* [Nim package directory](https://nimble.directory/) - List of packages for Nimble.
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
