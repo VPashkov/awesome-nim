@@ -140,7 +140,9 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 ## Package Repositories
 
-* [Nim package directory](https://nimble.directory/) - List of packages for Nimble.
+* [Nim packages](https://github.com/nim-lang/packages) - List of packages for Nimble.
+* [Nim package directory](https://nimble.directory/) - This service allows you to explore Nim packages known to Nimble.
+It tests package installation and generates documentation using "nim doc".
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
