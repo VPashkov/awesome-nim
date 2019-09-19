@@ -128,6 +128,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 * [Aporia](https://github.com/nim-lang/Aporia) - Text editor to get started with Nim easily (not maintained anymore).
 * [Editor Integration](https://github.com/nim-lang/Nim/wiki/editor-support) - Official list of editor plugins for Nim.
+* [Nim Playground](https://play.nim-lang.org/) - Code and run Nim online.
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
