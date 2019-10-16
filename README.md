@@ -240,6 +240,7 @@ It tests package installation and generates documentation using "nim doc".
 * [HookRace](https://hookrace.net/blog/nim/) - Blog with multiple articles on Nim.
 * [Rants from the Ballmer Peak](https://gradha.github.io/index.html) - Posts on Nim and other languages.
 * [Yuriy Glukhov's blog](https://yglukhov.github.io/) - Making and shipping a game in Nim
+* [Araq's Musings](https://nim-lang.org/araq) - Blog on Nim from the creator himself.
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
