@@ -228,7 +228,7 @@ It tests package installation and generates documentation using "nim doc".
 
 ## Books
 
-* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book, available via Manning's early access program.
+* [Nim in Action](https://www.manning.com/books/nim-in-action) - Nim's first book
 * [Nim Days](https://github.com/xmonader/nimdays) - A project to document my journey with nim with mini applications, libraries documented from A to Z and also to provide new Nim users with some extra in depth information.
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
