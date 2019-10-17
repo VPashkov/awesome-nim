@@ -20,6 +20,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 - [GUI](#gui)
 - [IDE](#ide)
 - [Implementations](#implementations)
+- [Macros](#macros)
 - [Package Repositories](#package-repositories)
 - [REPL](#repl)
 - [Scripting](#scripting)
@@ -136,6 +137,15 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 
 * [Nim](https://github.com/nim-lang/Nim) - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority). [MIT] [website](http://nim-lang.org/)
 * [Nlvm](https://github.com/arnetheduck/nlvm) - LLVM backend for Nim. [MIT]
+
+[**&DoubleUpArrow;**](#contents "Go to the top")
+
+## Macros
+
+* [cascade](https://github.com/citycide/cascade) - Method & assignment cascades for Nim, inspired by Smalltalk & Dart. [MIT]
+* [gara](https://github.com/alehander42/gara) - Macro-based pattern matching library. [MIT]
+* [pipe](https://github.com/5paceToast/pipe) - Pipe operator for Nim, as seen in functional languages. [MIT]
+* [unpack](https://github.com/technicallyagd/unpack) - Sequence/object unpacking/destructuring. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
