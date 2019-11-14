@@ -1,3 +1,5 @@
+# DEPRECATED - Use [Curated Packages](https://github.com/nim-lang/Nim/wiki/Curated-Packages) instead.
+
 # Awesome Nim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
